@@ -7,10 +7,15 @@ The **AZ-900 certification** is an excellent entry point into the world of cloud
 **Topics Covered**
 
 Describe cloud concepts
+
 Describe core Azure services
+
 Describe core solutions and management tools on Azure
+
 Describe general security and network security features
+
 Describe identity, governance, privacy, and compliance features
+
 Describe Azure cost management and Service Level Agreements
 
 This exam is perfect for students, aspiring cloud engineers, IT professionals, and even business or sales roles that work closely with cloud solutions. The best part? No prior technical knowledge is required to take AZ-900, making it accessible and achievable for anyone curious about cloud technology.
