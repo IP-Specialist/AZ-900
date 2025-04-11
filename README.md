@@ -6,7 +6,7 @@ The **AZ-900 certification** is an excellent entry point into the world of cloud
 
 This exam is perfect for students, aspiring cloud engineers, IT professionals, and even business or sales roles that work closely with cloud solutions. The best part? No prior technical knowledge is required to take AZ-900, making it accessible and achievable for anyone curious about cloud technology.
 
-Earning the** AZ-900 certification** not only helps you stand out in the job market but also builds a strong foundation for more advanced Azure certifications, such as AZ-104, AZ-500, or AZ-305. With cloud skills in high demand, this credential adds credibility to your profile and opens up opportunities for career growth in the ever-evolving tech landscape.
+Earning the **AZ-900 certification** not only helps you stand out in the job market but also builds a strong foundation for more advanced Azure certifications, such as AZ-104, AZ-500, or AZ-305. With cloud skills in high demand, this credential adds credibility to your profile and opens up opportunities for career growth in the ever-evolving tech landscape.
 
 If you're looking to start your career in cloud computing or simply want to expand your understanding of Microsoft Azure, the AZ-900 certification is the perfect first step.
 
