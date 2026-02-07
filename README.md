@@ -1,8 +1,51 @@
 # AZ-900: Microsoft Azure Fundamental
 
-**AZ-900: Microsoft Azure Fundamentals GitHub repository** is your one-stop destination for everything you need to prepare for and pass the AZ-900 certification exam. This course offered by **IPSpecialist** includes a comprehensive collection of curated resources such as detailed study guide, exam cram notes, practice questions,  study cards, video tutorials, hands-on labs, and exam tips. Whether you're just getting started with Azure or looking to solidify your foundational knowledge, this resource hub has been carefully designed to support your learning journey every step of the way.
+This repository provides hands-on labs aligned with the AZ-900 2026 edition book, helping you gain practical Azure experience while preparing for the AZ-900 exam.
 
-The **AZ-900 certification** is an excellent entry point into the world of cloud computing and is ideal for individuals from both technical and non-technical backgrounds. It introduces you to core Azure concepts, services, pricing models, cloud governance, and security. As more organizations rapidly adopt cloud infrastructure, professionals with a clear understanding of Azure fundamentals are becoming increasingly valuable across various industries.
+AZ-900 – Microsoft Azure Fundamentals is your complete guide to mastering Azure and preparing for the AZ-900 exam with confidence. Fully updated for 2026, this edition combines theory, practice questions, hands-on labs, and real-world examples to help beginners and IT professionals quickly build Azure expertise.
+
+The book covers all core Azure services, cloud concepts, governance, security, pricing, and more, giving you both the knowledge and practical skills to succeed.
+
+**Purpose of This Repository**
+
+The goal of this repository is to:
+
+Provide step-by-step, hands-on lab exercises for all topics covered in the AZ-900 book
+
+Help readers apply theoretical concepts in real Azure environments
+
+Offer a structured, practical learning path for exam prep
+
+Enable learners to gain confidence and hands-on experience
+
+**Labs Coverage**
+
+The labs align with the AZ-900 book chapters, including:
+
+Introduction to Azure and cloud concepts
+
+Compute services (VMs, App Services, Functions)
+
+Networking fundamentals and services
+
+Storage options and configurations
+
+Databases in Azure (SQL, Cosmos DB)
+
+Authentication, authorization, and identity management
+
+Azure core solutions and management tools
+
+Security, privacy, compliance, and trust
+
+Pricing, cost management, and subscriptions
+
+Managing and deploying Azure resources
+
+Support and monitoring tools
+
+Each lab includes objectives, prerequisites, step-by-step instructions, and validation steps for easy completion.
+
 
 **Topics Covered**
 
